@@ -110,8 +110,7 @@ License: Free to All NC State University staff, students, and departments.
     min-height: 1px;
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 1.2em;
-    padding-bottom: 1.2em; }
+}
     .l-header .page-lead p {
       position: relative;
       float: left;
@@ -1195,8 +1194,8 @@ footer {
   *  It conflicted with dropdown menus so I've removed it for now.
   */ }
   footer .main-footer {
-    padding-top: 3em;
-    padding-bottom: 3em; }
+    padding-top: 1.2em;
+    padding-bottom: 1.2em; }
     @media (max-width: 992px) {
       footer .main-footer {
         padding-top: 2em;
@@ -1273,12 +1272,12 @@ footer {
         display: none; }
       footer .social li a {
         background-color: #cc0000;
-        padding: 1em 1.5em;
+        padding: 0.5em 1.5em;
         display: block;
         width: 80%;
         max-width: 300px; }
 	footer #notes{
-		padding-top: 157px;
+		padding-top: 120px;
 		text-align: right;
 		display: block;}
 	footer #notes a.noundeline{
